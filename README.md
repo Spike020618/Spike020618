@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 :fire: Federated Learning | Blockchain | AIGC 😄
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cowboy-Spike-Spiegel&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spike020618&show_icons=true)
