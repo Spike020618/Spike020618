@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:heart: Programming | :blue_heart: Music, Sports, Painting, Anime, Games
+
+:fire: Federated Learning | Blockchain | AIGC 😄
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cowboy-Spike-Spiegel&show_icons=true)
